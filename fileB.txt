@@ -1,0 +1,2 @@
+file 2 on branchB
+this is for second commit o0n branch B
