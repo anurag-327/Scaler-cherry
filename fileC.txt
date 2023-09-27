@@ -1,0 +1,2 @@
+file 3 on branchB
+this is for third commit on branch B
